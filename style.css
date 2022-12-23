@@ -1,0 +1,138 @@
+*{margin: 0;padding: 0;box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;}
+@font-face{font-family: roboto;
+src: url(/images/roboto-cdnfonts.zip);}
+.wrapper{
+    
+    margin: 0 auto;
+}
+.wrapper{
+    max-width: 1300px;
+    margin: 0 auto;
+    background-color:white;
+}
+.header_wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.header_list{
+    display: flex;
+    
+}
+.header_item{
+    margin: 23px;
+    list-style-type: none;
+}
+.p1{
+    size: 42px;
+}
+.letter{
+   color: #FF8F52;
+}
+.header_home{
+    color:#FF8F52 ;
+    text-decoration: none;
+}
+.header_shope{
+    color: black;
+    text-decoration: none;
+}
+.header_bloge{
+    color: black;
+    text-decoration: none;
+}
+.header_about{
+    color: black;
+    text-decoration: none;
+}
+.header_link:hover,.header_link:focus,.header_link:active{
+    opacity: .78;
+}
+.section{
+    display: flex;
+    justify-content: space-around;
+    max-width: 1300px;
+    margin: 0 auto;
+    
+}
+.main{
+    background-color: #DADADA;
+    padding-top: 60px;
+}
+
+.p1{
+    max-width: 450px;
+    font-size: 60px;
+    
+
+}
+.section_intro{
+    padding: 36px;
+}
+.p3{
+    padding-top: 421px;
+    color: #838383;
+}
+.search{
+    background: #FF8F52;
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+}
+.p4{
+    color: black;
+}
+.section2_wrapper{
+    max-width: 1300px;
+    margin: 0 auto;
+}
+.p4{
+    font-size: 32px;
+    padding-left: 565px;
+    border:bottom;
+}
+.section2{
+    margin: 20px;
+}
+.block1{
+    border-radius: 5px;
+    background-color: white;
+    padding: 10px;
+}
+.section2_block{
+    padding: 50px;
+}
+.intro_block{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+.block2{
+    border-radius: 5px;
+    background-color: white;
+    padding: 10px;
+}
+.block3{
+    border-radius: 5px;
+    background-color: white;
+    padding: 10px;
+}
+.block4{
+    border-radius: 5px;
+    background-color: white;
+    padding: 10px;
+}
+
+
+.p6{
+   color: #838383; 
+}
+.p7{
+    color: #FF8F52;
+    text-decoration: none;
+}
+.korzina{
+    padding-top: 20px;
+}
